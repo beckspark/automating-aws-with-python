@@ -1,5 +1,8 @@
 # automating-aws-with-python
+
 Repository for Automating AWS with Python Course
+
+Stephen Beck
 
 ## 01-webotron
 
@@ -12,5 +15,3 @@ Webotron currently has the following features:
 - List bucket
 - List contents of a bucket
 - Create & set up bucket
-
-
